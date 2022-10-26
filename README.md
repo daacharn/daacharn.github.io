@@ -1,2 +1,2 @@
-# skandavaidyanath.github.io
+# daacharn.github.io
 Personal website 
