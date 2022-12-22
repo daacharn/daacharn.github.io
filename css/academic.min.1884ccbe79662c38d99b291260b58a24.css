@@ -217,7 +217,8 @@ svg {
 }
 
 table {
-    border-collapse: collapse
+    border-collapse: collapse;
+    border: 1px solid black;
 }
 
 caption {
@@ -12818,8 +12819,3 @@ div.mermaid {
     text-align: center;
     margin-bottom: 1rem
 }
-
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-  }
